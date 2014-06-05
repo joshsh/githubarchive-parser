@@ -25,8 +25,10 @@ sortMem = '2G'   #memory for sort. maximize.
 threads = 2 
 
 #start and end hours to fetch from GitHubArchive
-startHour = '2012-03-12-01'  #set to 'beginning' for earliest possible
-endHour = '2012-11-09-23'    #set to 'now' for last possible
+startHour = '2014-06-01-01'
+endHour = '2014-06-01-23'
+#startHour = '2012-03-12-01'  #set to 'beginning' for earliest possible
+#endHour = '2012-11-09-23'    #set to 'now' for last possible
 #endHour = '2012-03-12-04'    #set to 'now' for last possible
 
 #verbose output for debugging
